@@ -17,7 +17,9 @@ It's a group project (Alice Moradiya & Drij Gajera). This is a web-based travel 
 1. Clone the repository:
 2. Navigate to the project directory: `cd travel-system`
 3. Set up your database and configure the `db_connection.php` file.
-4. Run the project on a local server on the web browser and open main.html file.  
+4. make sure that project folder is in this "C:\Program Files\Ampps\www" particular folder.
+5. Run the project on a local server on the web browser and open main.html file.
+
 
 Note: For inital admin account, make a account through register link in customer side. Then go to this website, "http://localhost/phpmyadmin/index.php". look for users, under this project named folder at the left side. Now, edit your details there and changed "is_admin" value from 0 to 1. Now login again through admin pannel.
 
