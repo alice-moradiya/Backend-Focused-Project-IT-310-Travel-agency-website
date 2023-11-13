@@ -17,7 +17,7 @@ It's a group project (Alice Moradiya & Drij Gajera). This is a web-based travel 
 1. Clone the repository:
 2. Navigate to the project directory: `cd travel-system`
 3. Set up your database and configure the `db_connection.php` file. (change to your root id and password there)
-4. make sure that project folder is in this "C:\Program Files\Ampps\www" particular folder if you are using Ampps.
+4. Make sure that project folder is in this "C:\Program Files\Ampps\www" particular folder if you are using Ampps.
 5. Run the project on a local server on the web browser and open main.html file.
 
 
