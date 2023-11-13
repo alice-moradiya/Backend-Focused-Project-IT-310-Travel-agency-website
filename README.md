@@ -28,4 +28,5 @@ Note: For inital admin account, make a account through register link in customer
 - PHP
 - MySQL
 - HTML/CSS/ Javascript
+- Bootstrap
 
