@@ -5,6 +5,14 @@
 
 It's a group project (Alice Moradiya & Drij Gajera). This is a web-based travel system project that allows users to explore available tours, add them to their shopping cart, and proceed to checkout. Admins can log in to manage tours.
 
+
+## Technologies Used
+
+- PHP
+- MySQL
+- HTML/CSS/ Javascript
+- Bootstrap
+
 ## Features
 
 - User Authentication: Users can log in to explore and book tours.
@@ -22,11 +30,4 @@ It's a group project (Alice Moradiya & Drij Gajera). This is a web-based travel 
 
 
 Note: For inital admin account, make a account through register link in customer side. Then go to this website, "http://localhost/phpmyadmin/index.php". look for users, under this project named folder at the left side. Now, edit your details there and changed "is_admin" value from 0 to 1. Now login again through admin pannel.
-
-## Technologies Used
-
-- PHP
-- MySQL
-- HTML/CSS/ Javascript
-- Bootstrap
 
